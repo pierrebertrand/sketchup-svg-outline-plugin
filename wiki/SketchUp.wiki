@@ -1,2 +1,2 @@
-[http://sketchup.google.com/ Download and learn more about Sketchup]
-[http://sketchup.google.com/download/rubyscripts.html How to install Ruby scripts (plugins)]
+*[http://sketchup.google.com/ Download and learn more about Sketchup]
+*[http://sketchup.google.com/download/rubyscripts.html How to install Ruby scripts (plugins)]
