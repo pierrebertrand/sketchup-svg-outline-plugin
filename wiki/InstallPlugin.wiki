@@ -1,0 +1,21 @@
+#labels Featured
+How to install the Sketchup SVG Outline Plugin
+
+Basically all you want to do is take the files out of the zip file *sketchup-svg-outlines-plugin-0.3.2.zip*:
+ * svgTemplateMakerReg.rb
+ * readme.txt
+ * gpl-3.0-standalone.html
+ * FlightsOfIdeas
+  * flightsOfIdeasStyle.css
+  * svgOkDialog.html
+  * svgTemplate.rb
+  * svgTemplateDialog.html
+  * templateMaker.rb
+  * Images
+   * Create.png
+   * dragonfly_50.png
+   * FlightsOfIdeas.png
+
+..and put these files into your SketchUp 6 directory (preserving the directory structure) - on a windows machine this is normaly something like _C:\Program Files (x86)\Google\Google SketchUp 6\Plugins_ and on Mac OS X this should be _Hard Drive/Library/Application Support/Google SketchUp 6/SketchUp/Plugins_
+
+See the official Google page for more information with regard to installing plugins
