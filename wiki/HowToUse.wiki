@@ -1,0 +1,10 @@
+#labels Featured
+See "Instructables" for a good tutorial on using this plugin with Sketchup, Inkscape, and Ponoko.
+
+Part 1:
+
+[http://www.instructables.com/id/SketchUp-Inkscape-and-Ponoko-Laser-Cutting/ http://www.instructables.com/id/SketchUp-Inkscape-and-Ponoko-Laser-Cutting/]
+
+Part 2:
+
+[http://www.instructables.com/id/Designing_for_Ponoko_Laser_Cutting_with_SketchUp_a/ http://www.instructables.com/id/Designing_for_Ponoko_Laser_Cutting_with_SketchUp_a/]
