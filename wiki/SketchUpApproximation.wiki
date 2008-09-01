@@ -1,4 +1,6 @@
 #labels Featured
+Thankyou to [http://eagleapex.com/ eagleapex] (Christopher Thompson) for persevering with bug reports.
+
 The following picture shows measurements along edges of a cube. It appears as though the left side matches the right side, right? wrong!
 
 [http://farm4.static.flickr.com/3257/2817573426_94fbbc3a57_o.png http://farm4.static.flickr.com/3257/2817573426_ef76120444.jpg]
