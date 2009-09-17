@@ -1,21 +1,28 @@
 #labels Featured
-How to install the Sketchup SVG Outline Plugin
+How to install the SketchUp SVG Outline Plugin
 
-Basically all you want to do is take the files out of the zip file *sketchup-svg-outlines-plugin-0.3.2.zip*:
- * svgTemplateMakerReg.rb
- * readme.txt
- * gpl-3.0-standalone.html
- * FlightsOfIdeas
+If you have an old version installed you may need to delete the FlightsOfIdeas directory in your SketchUp plugins folder. Also delete svgTemplateMakerReg.rb and flightsofideas.rb if they exist.
+
+Your SketchUp plugins should be located somewhere like...
+Windows: _C:\Program Files (x86)\Google\Google SketchUp 7\Plugins_
+Mac OS: _Hard Drive/Library/Application Support/Google SketchUp 7/SketchUp/Plugins_
+
+To install the plugin, you want to take the files out of the zip file *sketchup-svg-outlines-plugin-0.92.zip* and put them in your plugins directory. On Windows this is as easy as opening the zip file (double click), selecting all of the files, and them dragging them to your SketchUp plugins directory.
+
+Once you have done this, make sure you have the following files:
+ * flightsofideas.rb
+ * FlightsOfIdeas [Directory]
+  * flightsOfIdeasCommon.rb
   * flightsOfIdeasStyle.css
+  * flightsOfIdeasTools.rb
+  * svgExport.rb
+  * svgExportDialog.html
+  * svgExportTools.rb
   * svgOkDialog.html
-  * svgTemplate.rb
-  * svgTemplateDialog.html
-  * templateMaker.rb
   * Images
    * Create.png
    * dragonfly_50.png
    * FlightsOfIdeas.png
 
-..and put these files into your SketchUp 6 directory (preserving the directory structure) - on a windows machine this is normally something like _C:\Program Files (x86)\Google\Google SketchUp 6\Plugins_ and on Mac OS X this should be _Hard Drive/Library/Application Support/Google SketchUp 6/SketchUp/Plugins_
 
 See the [http://sketchup.google.com/download/rubyscripts.html official Google page] for more information with regard to installing plugins
