@@ -11,7 +11,7 @@ To install the plugin, you want to take the files out of the zip file *sketchup-
 
 Once you have done this, make sure you have the following files:
  * flightsofideas.rb
- * FlightsOfIdeas [Directory]
+ * FlightsOfIdeas - Directory
   * flightsOfIdeasCommon.rb
   * flightsOfIdeasStyle.css
   * flightsOfIdeasTools.rb
@@ -19,7 +19,7 @@ Once you have done this, make sure you have the following files:
   * svgExportDialog.html
   * svgExportTools.rb
   * svgOkDialog.html
-  * Images
+  * Images - Directory
    * Create.png
    * dragonfly_50.png
    * FlightsOfIdeas.png
