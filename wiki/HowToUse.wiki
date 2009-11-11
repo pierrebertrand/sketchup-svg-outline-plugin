@@ -8,3 +8,13 @@ Part 1:
 Part 2:
 
 [http://www.instructables.com/id/Designing_for_Ponoko_Laser_Cutting_with_SketchUp_a/ http://www.instructables.com/id/Designing_for_Ponoko_Laser_Cutting_with_SketchUp_a/]
+
+*Latest additions to the plugin:*
+
+[http://flightsofideas.com/?p=572 Exporting SVG faces from SketchUp]
+
+[http://flightsofideas.com/?p=610 Exporting text annotations]
+
+[http://flightsofideas.com/?p=614 Changing line colours and width]
+
+[http://flightsofideas.com/?p=620 Launching your SVG editor from SketchUp ]
