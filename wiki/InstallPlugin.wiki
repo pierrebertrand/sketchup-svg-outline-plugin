@@ -28,7 +28,11 @@ Once you have done this, make sure you have the following files:
 See the [http://sketchup.google.com/download/rubyscripts.html official Google page] for more information with regard to installing plugins
 
 http://farm5.static.flickr.com/4111/5099040088_376c1fdb30.jpg
+
 http://farm2.static.flickr.com/1411/5099040092_146e6ba900.jpg
+
 http://farm5.static.flickr.com/4089/5098439577_b8ab2659ef.jpg
+
 http://farm5.static.flickr.com/4092/5098439595_7690ecb578_m.jpg
+
 http://farm2.static.flickr.com/1356/5098439671_d40d24e554.jpg
