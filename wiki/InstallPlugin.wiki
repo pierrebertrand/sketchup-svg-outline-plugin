@@ -4,10 +4,10 @@ How to install the SketchUp SVG Outline Plugin
 If you have an old version installed you may need to delete the FlightsOfIdeas directory in your SketchUp plugins folder. Also delete svgTemplateMakerReg.rb and flightsofideas.rb if they exist.
 
 Your SketchUp plugins should be located somewhere like...
-Windows: _C:\Program Files (x86)\Google\Google SketchUp 7\Plugins_
-Mac OS: _Hard Drive/Library/Application Support/Google SketchUp 7/SketchUp/Plugins_
+Windows: _C:\Program Files (x86)\Google\Google SketchUp 8\Plugins_ or
+Mac OS: _Hard Drive/Library/Application Support/Google SketchUp 8/SketchUp/Plugins_
 
-To install the plugin, you want to take the files out of the zip file *sketchup-svg-outlines-plugin-0.92.zip* and put them in your plugins directory. On Windows this is as easy as opening the zip file (double click), selecting all of the files, and them dragging them to your SketchUp plugins directory.
+To install the plugin, you want to take the files out of the zip file *sketchup-svg-outlines-plugin-0.99.zip* and put them in your plugins directory. On Windows this is as easy as opening the zip file (double click), selecting all of the files, and them dragging them to your SketchUp plugins directory.
 
 Once you have done this, make sure you have the following files:
  * flightsofideas.rb
