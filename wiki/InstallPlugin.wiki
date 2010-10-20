@@ -29,10 +29,20 @@ See the [http://sketchup.google.com/download/rubyscripts.html official Google pa
 
 http://farm5.static.flickr.com/4111/5099040088_376c1fdb30.jpg
 
+Once you have started SketchUp, check that the FlightsOfIdeas extensions are enabled (Window->Preferences->Extensions).
+
 http://farm2.static.flickr.com/1411/5099040092_146e6ba900.jpg
+
+You will then be able to access the right mouse button menu option for exporting SVG.
 
 http://farm5.static.flickr.com/4089/5098439577_b8ab2659ef.jpg
 
+If the SVG export icon is not on you toolbar, it can be added from the menu (View->Toolbar->FlightsOfIdeas).
+
 http://farm5.static.flickr.com/4092/5098439595_7690ecb578_m.jpg
 
+The SVG icon should then be dockable to your toolbar.
+
 http://farm2.static.flickr.com/1356/5098439671_d40d24e554.jpg
+
+Now you are ready to start exporting SVG outlines like those above.
