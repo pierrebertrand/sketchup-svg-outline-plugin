@@ -45,4 +45,4 @@ The SVG icon should then be dockable to your toolbar.
 
 http://farm2.static.flickr.com/1356/5098439671_d40d24e554.jpg
 
-Now you are ready to start exporting SVG outlines like those above.
+Now you can exportg SVG outlines like these.
