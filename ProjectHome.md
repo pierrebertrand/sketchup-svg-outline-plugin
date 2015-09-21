@@ -1,0 +1,1 @@
+_Google Code is shutting down - go here http://simonbeard.github.io/sketchup-svg-outline-plugin/ for the new home_
